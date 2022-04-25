@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "matafakinbeans", "matafakinbeans\matafakinbeans.vcxproj", "{AEA5F405-33CD-41B3-9937-2290A890E66D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEA5F405-33CD-41B3-9937-2290A890E66D}.Debug|x64.ActiveCfg = Debug|x64
+		{AEA5F405-33CD-41B3-9937-2290A890E66D}.Debug|x64.Build.0 = Debug|x64
+		{AEA5F405-33CD-41B3-9937-2290A890E66D}.Debug|x86.ActiveCfg = Debug|Win32
+		{AEA5F405-33CD-41B3-9937-2290A890E66D}.Debug|x86.Build.0 = Debug|Win32
+		{AEA5F405-33CD-41B3-9937-2290A890E66D}.Release|x64.ActiveCfg = Release|x64
+		{AEA5F405-33CD-41B3-9937-2290A890E66D}.Release|x64.Build.0 = Release|x64
+		{AEA5F405-33CD-41B3-9937-2290A890E66D}.Release|x86.ActiveCfg = Release|Win32
+		{AEA5F405-33CD-41B3-9937-2290A890E66D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3B81802-DF05-4413-AEEE-01A97708BC2A}
+	EndGlobalSection
+EndGlobal
